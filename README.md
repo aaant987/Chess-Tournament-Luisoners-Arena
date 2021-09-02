@@ -7,6 +7,8 @@
 
 ![](https://github.com/aaant987/Chess-Tournament-Luisoners-Arena/blob/master/pmovimientos.png)
 
+![](https://github.com/aaant987/Chess-Tournament-Luisoners-Arena/blob/master/presultados_.png)
+
 
 
 
